@@ -1,7 +1,5 @@
 # ICS-C-exercises-s2
 
-# C Programming Exercises
-
 # Advanced C Programming Exercises (6-15)
 
 ## Exercise 6: Numbers Divisible by 3
